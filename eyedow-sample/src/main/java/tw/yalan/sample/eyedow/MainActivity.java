@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import tw.yalan.eyedow.EyedowService;
 import tw.yalan.eyedow.EyedowServiceManager;
 import tw.yalan.sample.eyedow.service.EyedowDemoResize;
 import tw.yalan.sample.eyedow.service.EyedowDemoFullScreen;
