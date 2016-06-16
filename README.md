@@ -1,2 +1,2 @@
 # Eyedow
-Window service library on Android.
+Window service libary for Android.
