@@ -30,7 +30,7 @@ dependencies {
  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
   ```
 
-- Setup  service's layout:
+- Setup eyedow service's layout:
   ```
 @Layout(id = R.layout.demo_body_1, width = 200, height = 300)
 public class EyedowDemoResize extends EyedowService {
@@ -49,7 +49,7 @@ public class EyedowDemoResize extends EyedowService {
 }
  ```
  
-- Setup  service in AndroidManifest.xml:
+- Setup eyedow service in AndroidManifest.xml:
    ```
 <service android:name=".service.EyedowDemoResize"></service>
 <service android:name=".service.EyedowDemoFullScreen"></service>
