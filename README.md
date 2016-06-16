@@ -1,7 +1,7 @@
 
 #Eyedow
 
-![Demo gif](http://i.imgur.com/dQZRqM5.gif)
+![Demo gif](http://i.imgur.com/DUI3jr8.gif)
 
 
 
