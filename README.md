@@ -1,11 +1,11 @@
 
-#Eyedow
+## Eyedow
 
 ![Demo gif](http://i.imgur.com/DUI3jr8.gif)
 
 
 
-###功能 Features
+## 功能 Features
 
 Eyedow用於快速設計視窗型View.
 
